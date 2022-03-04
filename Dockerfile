@@ -1,4 +1,4 @@
-FROM ghcr.io/amirulsdockerhub/ULTR01D_UB-Docker:latest
+FROM ghcr.io/amirulsdockerhub/ultr01d_ub_docker:latest
 
 COPY . .
 
